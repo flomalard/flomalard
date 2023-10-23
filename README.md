@@ -11,6 +11,6 @@ Avec la 3W Academy, j'ai acquis une solide expertise dans divers domaines du dé
 
 N'hésitez pas à parcourir mes projets pour découvrir comment j'applique ces compétences dans la réalisation de projets web.
 
-📫 Vous pouvez me contacter par e-mail à l'adresse florent.malard@hotmail.fr ou par téléphone au 06.23.71.02.12.
+📫 Vous pouvez me contacter par mail à l'adresse florent.malard@hotmail.fr ou par téléphone au 06.23.71.02.12.
 
 Je suis ouvert aux nouvelles opportunités de collaboration et d'apprentissage, alors n'hésitez pas à me contacter si vous souhaitez discuter de projets ou de sujets liés au développement web.
